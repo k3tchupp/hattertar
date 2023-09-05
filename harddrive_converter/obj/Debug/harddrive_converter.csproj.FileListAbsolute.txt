@@ -1,0 +1,15 @@
+C:\Users\szima.akos\source\repos\harddrive_converter\harddrive_converter\obj\Debug\harddrive_converter.csproj.AssemblyReference.cache
+C:\Users\szima.akos\source\repos\harddrive_converter\harddrive_converter\obj\Debug\harddrive_converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\szima.akos\source\repos\harddrive_converter\harddrive_converter\obj\Debug\App.g.cs
+C:\Users\szima.akos\source\repos\harddrive_converter\harddrive_converter\obj\Debug\harddrive_converter_MarkupCompile.cache
+C:\Users\szima.akos\source\repos\harddrive_converter\harddrive_converter\bin\Debug\harddrive_converter.exe.config
+C:\Users\szima.akos\source\repos\harddrive_converter\harddrive_converter\bin\Debug\harddrive_converter.exe
+C:\Users\szima.akos\source\repos\harddrive_converter\harddrive_converter\bin\Debug\harddrive_converter.pdb
+C:\Users\szima.akos\source\repos\harddrive_converter\harddrive_converter\obj\Debug\MainWindow.g.cs
+C:\Users\szima.akos\source\repos\harddrive_converter\harddrive_converter\obj\Debug\MainWindow.baml
+C:\Users\szima.akos\source\repos\harddrive_converter\harddrive_converter\obj\Debug\harddrive_converter.g.resources
+C:\Users\szima.akos\source\repos\harddrive_converter\harddrive_converter\obj\Debug\harddrive_converter.Properties.Resources.resources
+C:\Users\szima.akos\source\repos\harddrive_converter\harddrive_converter\obj\Debug\harddrive_converter.csproj.GenerateResource.cache
+C:\Users\szima.akos\source\repos\harddrive_converter\harddrive_converter\obj\Debug\harddrive_converter.csproj.CoreCompileInputs.cache
+C:\Users\szima.akos\source\repos\harddrive_converter\harddrive_converter\obj\Debug\harddrive_converter.exe
+C:\Users\szima.akos\source\repos\harddrive_converter\harddrive_converter\obj\Debug\harddrive_converter.pdb
